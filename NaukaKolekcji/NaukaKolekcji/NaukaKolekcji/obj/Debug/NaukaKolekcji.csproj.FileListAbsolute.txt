@@ -1,0 +1,7 @@
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\NaukaKolekcji\bin\Debug\NaukaKolekcji.exe
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\NaukaKolekcji\bin\Debug\NaukaKolekcji.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\NaukaKolekcji\obj\Debug\NaukaKolekcji.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\NaukaKolekcji\obj\Debug\NaukaKolekcji.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\NaukaKolekcji\obj\Debug\NaukaKolekcji.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\NaukaKolekcji\obj\Debug\NaukaKolekcji.exe
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\NaukaKolekcji\obj\Debug\NaukaKolekcji.pdb

@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\bin\Debug\net8.0\ParseToNegative.exe
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\bin\Debug\net8.0\ParseToNegative.deps.json
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\bin\Debug\net8.0\ParseToNegative.runtimeconfig.json
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\bin\Debug\net8.0\ParseToNegative.dll
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\bin\Debug\net8.0\ParseToNegative.pdb
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ParseToNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ParseToNegative.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ParseToNegative.AssemblyInfo.cs
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ParseToNegative.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ParseToNegative.dll
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\refint\ParseToNegative.dll
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ParseToNegative.pdb
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ParseToNegative.genruntimeconfig.cache
+C:\Users\Filip\Desktop\KursC#\ParseToNegative\ParseToNegative\obj\Debug\net8.0\ref\ParseToNegative.dll

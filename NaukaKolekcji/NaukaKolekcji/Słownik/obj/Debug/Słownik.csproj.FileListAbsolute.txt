@@ -1,0 +1,7 @@
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\Słownik\obj\Debug\Słownik.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\Słownik\obj\Debug\Słownik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\Słownik\obj\Debug\Słownik.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\Słownik\bin\Debug\Słownik.exe
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\Słownik\bin\Debug\Słownik.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\Słownik\obj\Debug\Słownik.exe
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji\NaukaKolekcji\Słownik\obj\Debug\Słownik.pdb

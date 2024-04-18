@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\bin\Debug\net8.0\IteratorYield.exe
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\bin\Debug\net8.0\IteratorYield.deps.json
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\bin\Debug\net8.0\IteratorYield.runtimeconfig.json
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\bin\Debug\net8.0\IteratorYield.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\bin\Debug\net8.0\IteratorYield.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\IteratorYield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\IteratorYield.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\IteratorYield.AssemblyInfo.cs
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\IteratorYield.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\IteratorYield.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\refint\IteratorYield.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\IteratorYield.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\IteratorYield.genruntimeconfig.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\IteratorYield\obj\Debug\net8.0\ref\IteratorYield.dll

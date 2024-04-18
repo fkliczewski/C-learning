@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\bin\Debug\net8.0\TypyReferencyjneIWartosciowe.exe
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\bin\Debug\net8.0\TypyReferencyjneIWartosciowe.deps.json
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\bin\Debug\net8.0\TypyReferencyjneIWartosciowe.runtimeconfig.json
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\bin\Debug\net8.0\TypyReferencyjneIWartosciowe.dll
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\bin\Debug\net8.0\TypyReferencyjneIWartosciowe.pdb
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\TypyReferencyjneIWartosciowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\TypyReferencyjneIWartosciowe.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\TypyReferencyjneIWartosciowe.AssemblyInfo.cs
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\TypyReferencyjneIWartosciowe.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\TypyReferencyjneIWartosciowe.dll
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\refint\TypyReferencyjneIWartosciowe.dll
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\TypyReferencyjneIWartosciowe.pdb
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\TypyReferencyjneIWartosciowe.genruntimeconfig.cache
+C:\Users\Filip\Desktop\KursC#\TypyReferencyjneIWartosciowe\TypyReferencyjneIWartosciowe\obj\Debug\net8.0\ref\TypyReferencyjneIWartosciowe.dll

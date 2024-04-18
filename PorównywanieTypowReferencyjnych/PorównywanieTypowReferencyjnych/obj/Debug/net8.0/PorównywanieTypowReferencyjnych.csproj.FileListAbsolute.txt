@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\bin\Debug\net8.0\PorównywanieTypowReferencyjnych.exe
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\bin\Debug\net8.0\PorównywanieTypowReferencyjnych.deps.json
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\bin\Debug\net8.0\PorównywanieTypowReferencyjnych.runtimeconfig.json
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\bin\Debug\net8.0\PorównywanieTypowReferencyjnych.dll
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\bin\Debug\net8.0\PorównywanieTypowReferencyjnych.pdb
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\PorównywanieTypowReferencyjnych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\PorównywanieTypowReferencyjnych.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\PorównywanieTypowReferencyjnych.AssemblyInfo.cs
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\PorównywanieTypowReferencyjnych.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\PorównywanieTypowReferencyjnych.dll
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\refint\PorównywanieTypowReferencyjnych.dll
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\PorównywanieTypowReferencyjnych.pdb
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\PorównywanieTypowReferencyjnych.genruntimeconfig.cache
+C:\Users\Filip\Desktop\KursC#\PorównywanieTypowReferencyjnych\PorównywanieTypowReferencyjnych\obj\Debug\net8.0\ref\PorównywanieTypowReferencyjnych.dll

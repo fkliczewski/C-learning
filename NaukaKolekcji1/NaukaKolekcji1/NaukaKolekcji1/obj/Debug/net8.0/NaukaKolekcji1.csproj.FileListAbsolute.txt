@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\bin\Debug\net8.0\NaukaKolekcji1.exe
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\bin\Debug\net8.0\NaukaKolekcji1.deps.json
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\bin\Debug\net8.0\NaukaKolekcji1.runtimeconfig.json
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\bin\Debug\net8.0\NaukaKolekcji1.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\bin\Debug\net8.0\NaukaKolekcji1.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\NaukaKolekcji1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\NaukaKolekcji1.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\NaukaKolekcji1.AssemblyInfo.cs
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\NaukaKolekcji1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\NaukaKolekcji1.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\refint\NaukaKolekcji1.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\NaukaKolekcji1.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\NaukaKolekcji1.genruntimeconfig.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\NaukaKolekcji1\obj\Debug\net8.0\ref\NaukaKolekcji1.dll

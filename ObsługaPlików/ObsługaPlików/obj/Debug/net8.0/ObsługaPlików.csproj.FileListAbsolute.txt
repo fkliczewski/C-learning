@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\bin\Debug\net8.0\ObsługaPlików.exe
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\bin\Debug\net8.0\ObsługaPlików.deps.json
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\bin\Debug\net8.0\ObsługaPlików.runtimeconfig.json
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\bin\Debug\net8.0\ObsługaPlików.dll
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\bin\Debug\net8.0\ObsługaPlików.pdb
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ObsługaPlików.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ObsługaPlików.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ObsługaPlików.AssemblyInfo.cs
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ObsługaPlików.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ObsługaPlików.dll
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\refint\ObsługaPlików.dll
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ObsługaPlików.pdb
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ObsługaPlików.genruntimeconfig.cache
+C:\Users\Filip\Desktop\KursC#\ObsługaPlików\ObsługaPlików\obj\Debug\net8.0\ref\ObsługaPlików.dll

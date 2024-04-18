@@ -1,0 +1,14 @@
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\bin\Debug\net8.0\Słownik.exe
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\bin\Debug\net8.0\Słownik.deps.json
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\bin\Debug\net8.0\Słownik.runtimeconfig.json
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\bin\Debug\net8.0\Słownik.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\bin\Debug\net8.0\Słownik.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\Słownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\Słownik.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\Słownik.AssemblyInfo.cs
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\Słownik.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\Słownik.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\refint\Słownik.dll
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\Słownik.pdb
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\Słownik.genruntimeconfig.cache
+C:\Users\Filip\Desktop\KursC#\NaukaKolekcji1\NaukaKolekcji1\Słownik\obj\Debug\net8.0\ref\Słownik.dll
